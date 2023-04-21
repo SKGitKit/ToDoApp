@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoShazadaEdition</string>
+    <string name="add_note">Add Note</string>
+    <string name="your_note">Your Note :</string>
+    <string name="title">Title :</string>
+    <string name="save">Save</string>
+</resources>
